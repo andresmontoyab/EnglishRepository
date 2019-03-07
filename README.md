@@ -1,6 +1,6 @@
 ﻿# English
 
-### Index
+## Index
 
 * [Structures](#Structures)
     * [Present Simple](#Present-Simple)
@@ -11,6 +11,8 @@
     * [Past Perfect](#Past-Perfect) 
 * [Conditional](#Conditionals)    
 * [Report Speech](#Report-Speech)    
+
+# Structures
 
 ## Present Simple    
 
