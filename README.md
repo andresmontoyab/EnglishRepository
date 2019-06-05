@@ -54,7 +54,7 @@ Examples:
 
 1. Some verbs normally followed by ing form, not to infinitive:
 
-![](https://github.com/andresmontoyab/EnglishRepository/blob/master/resources/pattern-verb-to-infinitive.JPG) 
+![](https://github.com/andresmontoyab/EnglishRepository/blob/master/resources/pattern-verb-ing.JPG) 
 
 Examples:
 
