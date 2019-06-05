@@ -15,7 +15,6 @@
 	* [Verbs followed by to - infinitive](#Verbs-followed-by-to-infinitive)    
 	* [Verbs followed by ing](#Verbs-followed-by-ing)    
 	* [Verbs followed by ing or to infinitive](#Verbs-followed-by-ing-or-to-infinitive)    
-## Verbs followed by to - infinitive
 
 # Structures
 
@@ -35,7 +34,7 @@
 
 # Report Speech
 
-#Pattern Verb
+# Pattern Verb
 
 ## Verbs followed by to infinitive
 
