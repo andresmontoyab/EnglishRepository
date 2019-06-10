@@ -3,7 +3,9 @@
 ## Index
 
 * [Structures](#Structures)
-    * [Present Simple](#Present-Simple)
+	* [Present Tences](#Present-Tences)
+    	* [Present Simple](#Present-Simple)
+    	* [Pasive Voice](#Pasive-Voice)
     * [Present Continuos](#Present-Continuos)
     * [Present Perfect](#Present-Perfect) 
     * [Past Simple](#Past-Simple)
@@ -18,7 +20,25 @@
 
 # Structures
 
+# Present Tences
+
 ## Present Simple    
+
+## Pasive Voice
+
+When we want to give more importance to the action or the object being affected in the action than who is performing the action, we used pasive voice.
+
+		Subject + aux verb (to be) + past participle
+
+Examples:
+
+		The speech is written for the president
+
+		The passive voice is used frequently.
+
+		The road is being reparied.		
+
+		Our planet is wrapped in a mass of gasses.
 
 ## Present Continuos   
 
