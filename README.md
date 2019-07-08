@@ -207,7 +207,7 @@ Is the result of chaging events in the past.
 
 		If you had slept more last night, you wouldn't feel tired this mornings
 
-## Mixed Conditonal 
+## Mixed conditional
 
 ## Third/ Second conditional
 
@@ -234,6 +234,32 @@ We use it to talk about past hypothetical situations and the present or future c
 We use it to talk about past hypothetical situations and the present or future consequences.
 
 https://www.youtube.com/watch?v=835Qauqunt4
+
+## Examples all conditionals
+
+1. Zero condional
+
+		If i eat too much, I get sich
+
+2. First conditional
+
+		If i eat too much, I'll get sick.
+
+3. Second conditional
+
+		If I ate too much, I would get sick
+
+4. Third Condtional
+
+		If I had eaten too much, I would've gotten sick
+
+5. Mix third/second
+
+		If I had eaten too much, I would be sick later.
+
+6. Mix second/third
+
+		If I  alwaysate too much, I would have gotten sick a long time ago.
 
 # Report Speech
 
